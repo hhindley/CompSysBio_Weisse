@@ -38,9 +38,9 @@ Access the completed solutions for reference:
 
 ---
 
-## 📓 Option 2: Jupyter Notebook/Lab
+## Local Setup (Required for Options 2 & 3)
 
-#### Setup Steps:
+If you're planning to use **Option 2 (Jupyter)** or **Option 3 (VS Code/IDE)**, start with these shared setup steps:
 
 1. **Clone the repository:**
    ```bash
@@ -51,44 +51,7 @@ Access the completed solutions for reference:
 2. **Create and activate virtual environment:**
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # macOS/Linux
-   # OR
-   venv\Scripts\activate     # Windows
    ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   pip install jupyter  # if not already installed on your machine
-   ```
-
-4. **Launch Jupyter:**
-   ```bash
-   jupyter notebook  # Classic interface
-   # OR
-   jupyter lab      # Modern interface
-   ```
-
-5. **Navigate to `tutorials/` folder** and open any tutorial notebook.
-
----
-
-## 💻 Option 3: VS Code or Other IDE
-
-#### Setup Steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/hhindley/CompSysBio_Weisse.git
-   cd CompSysBio_Weisse
-   ```
-
-2. **Create virtual environment:**
-   ```bash
-   python3 -m venv venv
-   ```
-
-3. **Activate virtual environment:**
    
    **macOS/Linux:**
    ```bash
@@ -100,12 +63,44 @@ Access the completed solutions for reference:
    venv\Scripts\activate
    ```
 
-4. **Install dependencies:**
+3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-5. **Open in your IDE:**
+*Once you've completed these steps, proceed to your preferred option below.*
+
+---
+
+## 📓 Option 2: Jupyter Notebook/Lab
+
+> **Prerequisites:** Complete the [Local Setup](#-local-setup-required-for-options-2--3) steps above first.
+
+#### Additional Steps:
+
+4. **Install Jupyter (if not already installed):**
+   ```bash
+   pip install jupyter
+   ```
+
+5. **Launch Jupyter:**
+   ```bash
+   jupyter notebook  # Classic interface
+   # OR
+   jupyter lab      # Modern interface
+   ```
+
+6. **Navigate to `tutorials/` folder** and open any tutorial notebook.
+
+---
+
+## 💻 Option 3: VS Code or Other IDE
+
+> **Prerequisites:** Complete the [Local Setup](#-local-setup-required-for-options-2--3) steps above first.
+
+#### Additional Steps:
+
+4. **Open in your IDE:**
    ```bash
    code .  # For VS Code
    ```
@@ -113,15 +108,4 @@ Access the completed solutions for reference:
    Or open the project folder in your preferred IDE and start working with the notebooks in the `tutorials/` directory.
 
 ---
-
-## 📁 Repository Structure
-
-```
-CompSysBio_Weisse/
-├── tutorials/           # Interactive tutorial notebooks
-├── solutions/          # Complete solution notebooks
-├── imgs/              # Images and figures
-├── requirements.txt   # Python dependencies
-└── README.md         # This file
-```
 
