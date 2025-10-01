@@ -34,7 +34,7 @@ Access the completed solutions for reference:
 | **Growth Model with Antibiotics (Complete)** | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_inc_abx_tutorial_complete.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | **Competition Tutorial (Complete)** | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/competition_tutorial_complete.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
-> **💡 Note:** When using Google Colab, all required packages are installed automatically in the cloud environment.
+> **💡 Note:** When using Google Colab, all required packages are installed automatically in the cloud environment. To save these notebooks ensure you click File > Save a copy in drive. 
 
 ---
 
