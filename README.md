@@ -21,18 +21,18 @@ Click on any of the following links to open the tutorials directly in Google Col
 
 | Tutorial | Launch |
 |----------|---------|
-| **Growth Model ODE**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_ode_tutorial.ipynb) |
-| **Growth Model with Antibiotics** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_inc_abx_tutorial.ipynb) |
-| **Competition Tutorial** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/competition_tutorial.ipynb) |
+| **Growth Model ODE**  | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_ode_tutorial.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| **Growth Model with Antibiotics** | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_inc_abx_tutorial.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| **Competition Tutorial** | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/competition_tutorial.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 #### ✅ Solution Notebooks
 Access the completed solutions for reference:
 
 | Solution | Launch |
 |----------|---------|
-| **Growth Model ODE (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_ode_tutorial_complete.ipynb) |
-| **Growth Model with Antibiotics (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_inc_abx_tutorial_complete.ipynb) |
-| **Competition Tutorial (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/competition_tutorial_complete.ipynb) |
+| **Growth Model ODE (Complete)** | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_ode_tutorial_complete.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| **Growth Model with Antibiotics (Complete)** | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_inc_abx_tutorial_complete.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| **Competition Tutorial (Complete)** | <a href="https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/competition_tutorial_complete.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 > **💡 Note:** When using Google Colab, all required packages are installed automatically in the cloud environment.
 
