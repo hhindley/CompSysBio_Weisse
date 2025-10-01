@@ -14,25 +14,25 @@ Choose one of the following options based on your preferred environment:
 
 ---
 
-## 🌐 Option 1: Google Colab (No Local Installation Required)
+## 🌐 Option 1: Google Colab (no local installation required)
 
 #### 📚 Tutorial Notebooks
 Click on any of the following links to open the tutorials directly in Google Colab:
 
-| Tutorial | Description | Launch |
-|----------|-------------|---------|
-| **Competition Tutorial** | Learn about cellular competition dynamics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/competition_tutorial.ipynb) |
-| **Growth Model with Antibiotics** | Explore bacterial growth under antibiotic stress | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_inc_abx_tutorial.ipynb) |
-| **Growth Model ODE** | Mathematical modeling with differential equations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_ode_tutorial.ipynb) |
+| Tutorial | Launch |
+|----------|---------|
+| **Growth Model ODE**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_ode_tutorial.ipynb) |
+| **Growth Model with Antibiotics** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/growth_model_inc_abx_tutorial.ipynb) |
+| **Competition Tutorial** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/tutorials/competition_tutorial.ipynb) |
 
 #### ✅ Solution Notebooks
 Access the completed solutions for reference:
 
 | Solution | Launch |
 |----------|---------|
-| **Competition Tutorial (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/competition_tutorial_complete.ipynb) |
-| **Growth Model with Antibiotics (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_inc_abx_tutorial_complete.ipynb) |
 | **Growth Model ODE (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_ode_tutorial_complete.ipynb) |
+| **Growth Model with Antibiotics (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/growth_model_inc_abx_tutorial_complete.ipynb) |
+| **Competition Tutorial (Complete)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhindley/CompSysBio_Weisse/blob/main/solutions/competition_tutorial_complete.ipynb) |
 
 > **💡 Note:** When using Google Colab, all required packages are installed automatically in the cloud environment.
 
@@ -40,7 +40,7 @@ Access the completed solutions for reference:
 
 ## Local Setup (Required for Options 2 & 3)
 
-If you're planning to use **Option 2 (Jupyter)** or **Option 3 (VS Code/IDE)**, start with these shared setup steps:
+If you're planning to use **Option 2 (Jupyter)** or **Option 3 (VS Code/IDE)**, start with these shared setup steps to clone this repo and create a virtual environment in Python:
 
 1. **Clone the repository:**
    ```bash
@@ -74,7 +74,7 @@ If you're planning to use **Option 2 (Jupyter)** or **Option 3 (VS Code/IDE)**, 
 
 ## 📓 Option 2: Jupyter Notebook/Lab
 
-> **Prerequisites:** Complete the [Local Setup](#-local-setup-required-for-options-2--3) steps above first.
+> **Prerequisites:** Have Python3 downloaded and complete the [Local Setup](#local-setup-required-for-options-2--3) steps above first.
 
 #### Additional Steps:
 
@@ -96,7 +96,7 @@ If you're planning to use **Option 2 (Jupyter)** or **Option 3 (VS Code/IDE)**, 
 
 ## 💻 Option 3: VS Code or Other IDE
 
-> **Prerequisites:** Complete the [Local Setup](#-local-setup-required-for-options-2--3) steps above first.
+> **Prerequisites:** Have Python3 downloaded and complete the [Local Setup](#local-setup-required-for-options-2--3) steps above first.
 
 #### Additional Steps:
 
