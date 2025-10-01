@@ -17,7 +17,7 @@ Choose one of the following options based on your preferred environment:
 ## 🌐 Option 1: Google Colab (no local installation required)
 
 #### 📚 Tutorial Notebooks
-Click on any of the following links to open the tutorials directly in Google Colab:
+Click on any of the following links to open the tutorials directly in Google Colab (right click to open in a new tab):
 
 | Tutorial | Launch |
 |----------|---------|
